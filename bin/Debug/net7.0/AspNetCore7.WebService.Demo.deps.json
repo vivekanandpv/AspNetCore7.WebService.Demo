@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v7.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v7.0": {
+      "AspNetCore7.WebService.Demo/1.0.0": {
+        "runtime": {
+          "AspNetCore7.WebService.Demo.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "AspNetCore7.WebService.Demo/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

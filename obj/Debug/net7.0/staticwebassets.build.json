@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "fxEN6NIkeHDNdlcMmEqTGool0u54lAYhJJ9fHJZDc5s=",
+  "Source": "AspNetCore7.WebService.Demo",
+  "BasePath": "_content/AspNetCore7.WebService.Demo",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}
